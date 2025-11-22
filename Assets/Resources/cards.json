@@ -1,0 +1,124 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "name": "Shield Bearer",
+      "cost": 2,
+      "power": 3,
+      "ability": {
+        "type": "GainPoints",
+        "value": 2
+      }
+    },
+    {
+      "id": 2,
+      "name": "Fire Mage",
+      "cost": 3,
+      "power": 4,
+      "ability": {
+        "type": "DoublePower",
+        "value": 2
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rogue",
+      "cost": 1,
+      "power": 2,
+      "ability": {
+        "type": "StealPoints",
+        "value": 1
+      }
+    },
+    {
+      "id": 4,
+      "name": "Knight",
+      "cost": 2,
+      "power": 3,
+      "ability": {
+        "type": "None",
+        "value": 0
+      }
+    },
+    {
+      "id": 5,
+      "name": "Dragon",
+      "cost": 5,
+      "power": 7,
+      "ability": {
+        "type": "DestroyOpponentCardInPlay",
+        "value": 1
+      }
+    },
+    {
+      "id": 6,
+      "name": "Archer",
+      "cost": 2,
+      "power": 2,
+      "ability": {
+        "type": "None",
+        "value": 0
+      }
+    },
+    {
+      "id": 7,
+      "name": "Healer",
+      "cost": 1,
+      "power": 1,
+      "ability": {
+        "type": "GainPoints",
+        "value": 1
+      }
+    },
+    {
+      "id": 8,
+      "name": "Assassin",
+      "cost": 3,
+      "power": 5,
+      "ability": {
+        "type": "StealPoints",
+        "value": 2
+      }
+    },
+    {
+      "id": 9,
+      "name": "Tank",
+      "cost": 4,
+      "power": 6,
+      "ability": {
+        "type": "None",
+        "value": 0
+      }
+    },
+    {
+      "id": 10,
+      "name": "Wizard",
+      "cost": 3,
+      "power": 4,
+      "ability": {
+        "type": "DrawExtraCard",
+        "value": 1
+      }
+    },
+    {
+      "id": 11,
+      "name": "Curse",
+      "cost": 2,
+      "power": 0,
+      "ability": {
+        "type": "DiscardOpponentRandomCard",
+        "value": 1
+      }
+    },
+    {
+      "id": 12,
+      "name": "Paladin",
+      "cost": 4,
+      "power": 5,
+      "ability": {
+        "type": "GainPoints",
+        "value": 3
+      }
+    }
+  ]
+}

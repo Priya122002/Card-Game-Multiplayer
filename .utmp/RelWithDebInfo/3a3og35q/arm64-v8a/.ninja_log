@@ -1,0 +1,12 @@
+# ninja log v5
+72	572	7854558954357753	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9b93babcd7380d99
+574	896	7854558957097737	C:/Users/vel/Documents/PriyaProjects/Alter Office Card Game Multiplayer/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3a3og35q/obj/arm64-v8a/libswappywrapper.so	eab7377111e8469f
+43	3042	7854558979109099	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ab460a588b4adfdf
+23	3052	7854558979134305	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6ace59d06b128610
+0	3098	7854558979561798	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8a250a159ce02db3
+61	3147	7854558980191513	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f5077768ee58e410
+7	3250	7854558981198144	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	34c46c43e10dfe1
+33	3534	7854558984044490	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6ef6e5dbae73b7c3
+14	3674	7854558985476001	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	90d0bb73962da6b5
+52	3703	7854558985738083	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3bdcf1855027bf22
+3703	3857	7854558987310156	C:/Users/vel/Documents/PriyaProjects/Alter Office Card Game Multiplayer/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3a3og35q/obj/arm64-v8a/libgame.so	1b39aba1247a3916

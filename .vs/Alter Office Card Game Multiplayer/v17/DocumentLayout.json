@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\assets\\scripts\\manager\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\assets\\scripts\\networking\\networkplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\networking\\networkplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\assets\\scripts\\networking\\jsonmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\networking\\jsonmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\assets\\scripts\\events\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\events\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\assets\\scripts\\cards\\handuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cards\\handuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\assets\\scripts\\manager\\handmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\handmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\assets\\scripts\\manager\\deckmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\deckmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Library\\PackageCache\\com.unity.multiplayer.widgets@5e458f651b7a\\Runtime\\Session\\Widgets\\SessionList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.multiplayer.widgets@5e458f651b7a\\Runtime\\Session\\Widgets\\SessionList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Library\\PackageCache\\com.unity.multiplayer.widgets@5e458f651b7a\\Runtime\\Session\\Widgets\\CreateSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.multiplayer.widgets@5e458f651b7a\\Runtime\\Session\\Widgets\\CreateSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\assets\\scripts\\cards\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7598FDA7-A99F-8481-50E2-6DDB457A4800}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cards\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\vel\\documents\\priyaprojects\\alter office card game multiplayer\\assets\\scripts\\cards\\servergamedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\cards\\servergamedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServerGameDealer.cs",
+              "DocumentMoniker": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Cards\\ServerGameDealer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cards\\ServerGameDealer.cs",
+              "ToolTip": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Cards\\ServerGameDealer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cards\\ServerGameDealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:11:15.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateSession.cs",
+              "DocumentMoniker": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Library\\PackageCache\\com.unity.multiplayer.widgets@5e458f651b7a\\Runtime\\Session\\Widgets\\CreateSession.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.multiplayer.widgets@5e458f651b7a\\Runtime\\Session\\Widgets\\CreateSession.cs",
+              "ToolTip": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Library\\PackageCache\\com.unity.multiplayer.widgets@5e458f651b7a\\Runtime\\Session\\Widgets\\CreateSession.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.multiplayer.widgets@5e458f651b7a\\Runtime\\Session\\Widgets\\CreateSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T13:52:44.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SessionList.cs",
+              "DocumentMoniker": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Library\\PackageCache\\com.unity.multiplayer.widgets@5e458f651b7a\\Runtime\\Session\\Widgets\\SessionList.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.multiplayer.widgets@5e458f651b7a\\Runtime\\Session\\Widgets\\SessionList.cs",
+              "ToolTip": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Library\\PackageCache\\com.unity.multiplayer.widgets@5e458f651b7a\\Runtime\\Session\\Widgets\\SessionList.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.multiplayer.widgets@5e458f651b7a\\Runtime\\Session\\Widgets\\SessionList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T13:52:34.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HandUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Cards\\HandUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cards\\HandUIManager.cs",
+              "ToolTip": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Cards\\HandUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cards\\HandUIManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:29:25.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HandManager.cs",
+              "DocumentMoniker": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Manager\\HandManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\HandManager.cs",
+              "ToolTip": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Manager\\HandManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\HandManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:21:48.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeckManager.cs",
+              "DocumentMoniker": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Manager\\DeckManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\DeckManager.cs",
+              "ToolTip": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Manager\\DeckManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\DeckManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowC8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:21:26.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CardData.cs",
+              "DocumentMoniker": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Cards\\CardData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cards\\CardData.cs",
+              "ToolTip": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Cards\\CardData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cards\\CardData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:21:07.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonMessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Networking\\JsonMessageSender.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Networking\\JsonMessageSender.cs",
+              "ToolTip": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Networking\\JsonMessageSender.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Networking\\JsonMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:21:46.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetworkPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Networking\\NetworkPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Networking\\NetworkPlayer.cs",
+              "ToolTip": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Networking\\NetworkPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Networking\\NetworkPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:21:12.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:06:24.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:10:37.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnManager.cs",
+              "DocumentMoniker": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Manager\\TurnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\TurnManager.cs",
+              "ToolTip": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Manager\\TurnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\TurnManager.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwEwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:09:57.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameEvents.cs",
+              "DocumentMoniker": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Events\\GameEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Events\\GameEvents.cs",
+              "ToolTip": "C:\\Users\\vel\\Documents\\PriyaProjects\\Alter Office Card Game Multiplayer\\Assets\\Scripts\\Events\\GameEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Events\\GameEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:08:22.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
