@@ -44,6 +44,14 @@ public class HandUIManager : MonoBehaviour
             if (t.name.Contains("Power"))
                 t.text = "Power: " + card.power;
         }
+        CardClickHandler clickHandler = cardObj.GetComponent<CardClickHandler>();
+
+        if (clickHandler == null)
+        {
+            clickHandler = cardObj.AddComponent<CardClickHandler>();
+        }
+
+        clickHandler.Setup(card);
     }
 
     private void ClearHandUI()

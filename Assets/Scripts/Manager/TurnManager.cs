@@ -45,7 +45,7 @@ public class TurnManager : NetworkBehaviour
         ResetLocalTimer();
 
         // ✅ Stop timer so Play Card button becomes enabled
-       // IsTimerRunning.Value = false;
+        // IsTimerRunning.Value = false;
     }
 
     public void StartGame()
@@ -178,4 +178,83 @@ public class TurnManager : NetworkBehaviour
     {
         return localEnded;
     }
+
+
+    // ---------------- JSON NETWORKING ----------------
+
+    public void SendJsonToServer(string json)
+    {
+        if (!IsSpawned)
+        {
+            Debug.LogError("TurnManager NOT spawned");
+            return;
+        }
+
+        SendJsonToServerRpc(json);
+    }
+
+    [ServerRpc(RequireOwnership = false)]
+    private void SendJsonToServerRpc(string json)
+    {
+        HandleJson(json);
+        BroadcastJsonClientRpc(json);
+    }
+
+    [ClientRpc]
+    private void BroadcastJsonClientRpc(string json)
+    {
+        // ✅ Host already handled it during ServerRpc
+        if (IsServer) return;
+
+        HandleJson(json);
+    }
+
+
+    private void HandleJson(string json)
+    {
+        if (json.Contains("\"action\":\"playCard\""))
+        {
+            string playerId = Extract(json, "playerId");
+            if (!int.TryParse(Extract(json, "cardId"), out int cardId))
+            {
+                Debug.LogWarning("Invalid cardId in JSON: " + json);
+                return;
+            }
+
+
+            if (CardMoveManager.Instance != null)
+            {
+                CardMoveManager.Instance.MoveCardForBothPlayers(playerId, cardId);
+
+            }
+
+        }
+    }
+    private string Extract(string json, string key)
+    {
+        try
+        {
+            int keyIndex = json.IndexOf($"\"{key}\"");
+            if (keyIndex == -1)
+                return "";
+
+            int startIndex = json.IndexOf(":", keyIndex) + 1;
+
+            bool isString = json[startIndex] == '"';
+            if (isString)
+                startIndex++;
+
+            int endIndex = isString
+                ? json.IndexOf("\"", startIndex)
+                : json.IndexOfAny(new char[] { ',', '}' }, startIndex);
+
+            return json.Substring(startIndex, endIndex - startIndex);
+        }
+        catch
+        {
+            return "";
+        }
+    }
+
+
 }
